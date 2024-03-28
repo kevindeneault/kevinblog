@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Kevin Deneault</title>
-    <link href="https://kevindeneault.com/feed.xml" rel="self" />
-    <link href="https://kevindeneault.com" />
+    <link href="http://kevindeneault.com/feed.xml" rel="self" />
+    <link href="http://kevindeneault.com" />
     <updated>2023-01-05T08:42:16-06:00</updated>
     <author>
         <name>Kevin Deneault</name>
     </author>
-    <id>https://kevindeneault.com</id>
+    <id>http://kevindeneault.com</id>
 
     <entry>
         <title>First Post</title>
         <author>
             <name>Kevin Deneault</name>
         </author>
-        <link href="https://kevindeneault.com/first-post.html"/>
-        <id>https://kevindeneault.com/first-post.html</id>
+        <link href="http://kevindeneault.com/first-post.html"/>
+        <id>http://kevindeneault.com/first-post.html</id>
 
         <updated>2023-01-05T08:42:16-06:00</updated>
             <summary>
