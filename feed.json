@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Kevin Deneault",
     "description": "",
-    "home_page_url": "http://kevindeneault.com",
-    "feed_url": "http://kevindeneault.com/feed.json",
+    "home_page_url": "https://kevindeneault.com",
+    "feed_url": "https://kevindeneault.com/feed.json",
     "user_comment": "",
     "author": {
         "name": "Kevin Deneault"
     },
     "items": [
         {
-            "id": "http://kevindeneault.com/first-post.html",
-            "url": "http://kevindeneault.com/first-post.html",
+            "id": "https://kevindeneault.com/first-post.html",
+            "url": "https://kevindeneault.com/first-post.html",
             "title": "First Post",
             "summary": "Paragraph here.",
             "content_html": "<p>Paragraph here.</p>",
