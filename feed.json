@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "kevindeneault.com",
+    "description": "",
+    "home_page_url": "https://kevindeneault.com",
+    "feed_url": "https://kevindeneault.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Kevin Deneault"
+    },
+    "items": [
+        {
+            "id": "https://kevindeneault.com/first-post.html",
+            "url": "https://kevindeneault.com/first-post.html",
+            "title": "First Post",
+            "summary": "Paragraph here.",
+            "content_html": "<p>Paragraph here.</p>",
+            "author": {
+                "name": "Kevin Deneault"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-01-05T08:42:16-06:00",
+            "date_modified": "2023-01-05T08:42:16-06:00"
+        }
+    ]
+}
