@@ -3,30 +3,10 @@
     <title>Kevin Deneault</title>
     <link href="https://kevindeneault.com/feed.xml" rel="self" />
     <link href="https://kevindeneault.com" />
-    <updated>2023-01-05T08:42:16-06:00</updated>
+    <updated>1969-12-31T18:00:00-06:00</updated>
     <author>
         <name>Kevin Deneault</name>
     </author>
     <id>https://kevindeneault.com</id>
 
-    <entry>
-        <title>First Post</title>
-        <author>
-            <name>Kevin Deneault</name>
-        </author>
-        <link href="https://kevindeneault.com/first-post.html"/>
-        <id>https://kevindeneault.com/first-post.html</id>
-
-        <updated>2023-01-05T08:42:16-06:00</updated>
-            <summary>
-                <![CDATA[
-                    Paragraph here.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Paragraph here.</p>
-            ]]>
-        </content>
-    </entry>
 </feed>
